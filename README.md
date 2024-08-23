@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Newbie to Github
+Under Construction but optimistic I'll add something while I build this Github profile bruh ✨
 <!--
 **topekuno/topekuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
