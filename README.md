@@ -4,7 +4,9 @@ Newbie to Github.
 
 Under Construction but optimistic I'll add something while I build this Github profile bruh ✨
 
-I haz twitter [@topekuno][https://x.com/topekuno] 
+I haz twitter [@topekuno](https://x.com/topekuno)
+DM me there or just email me here if you wanna get in contact
+taufeeq.halim@gmail.com
 <!--
 **topekuno/topekuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
